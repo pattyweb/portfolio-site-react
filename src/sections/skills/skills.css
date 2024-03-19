@@ -1,0 +1,33 @@
+#skills{
+    background: var(--color-light);
+}
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  }
+
+  .text_skill_center{
+     text-align: center;
+  }
+
+  .text_skill{
+
+    padding-left: 0px;
+
+  }
+  
+  .html {width: 90%; background-color: #04AA6D;}
+  .css {width: 80%; background-color: #2196F3;}
+  .bootstrap {width: 80%; background-color: #2196F3;}
+  .js {width: 70%; background-color: #f44336;}
+  .react {width: 80%; background-color: #f44336;}
+  .vue {width: 70%; background-color: #f44336;}
+  .node {width: 60%; background-color: #f44336;}
+  .php {width: 90%; background-color: #808080;}
+  .wordpress {width: 90%; background-color: #808080;}
+  .laravel {width: 70%; background-color: #808080;}
+  .drupal {width: 65%; background-color: #808080;}
+  .magento {width: 60%; background-color: #808080;}
+  .mysql {width: 60%; background-color: #e23cb0;}
